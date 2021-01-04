@@ -1,0 +1,85 @@
+/*==================================================
+                    FAQ - Page
+==================================================*/
+
+.faq-inner .fa-plus {
+    color: #a6a6a6;
+}
+
+.faq-inner .fa-minus {
+    color: #a6a6a6;
+}
+
+.faq-inner p {
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.faqanswer {
+    display: none;
+    padding: 12px 20px 0 30px;
+    border: 1px solid #d1d1d1;
+    border-radius: 3px;
+    border-top: 0px;
+}
+
+.faq-wrap {
+    margin-bottom: 10px;
+}
+
+.faqanswer p {
+    font-family: "Open sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #333333;
+}
+
+.faq-inner a.active {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    font-family: "Open sans";
+    color: #333333;
+}
+
+.faq-inner a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.faq-inner span {
+    float: right;
+}
+
+.question-toggle {
+    text-decoration: none;
+    font-family: "Open sans";
+    color: #333333;
+    font-size: 16px;
+    padding: 10px 25px;
+    font-weight: 400;
+    line-height: 22px;
+    display: block;
+    border: 1px solid #d1d1d1;
+    border-radius: 3px;
+    background: #f3f3f3;
+}
+
+.question-toggle.active {
+    background: none;
+    border-bottom: none;
+}
+
+.faq-heading h3 {
+    font-family: "Open sans";
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #6255a5;
+    margin-bottom: 25px;
+}
+
+.info-name {
+    color: #ffb606;
+}
